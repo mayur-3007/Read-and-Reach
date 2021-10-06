@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://read_and_reach:read_and_reach@readandreach.rd37i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "649e8de01e1d5412184b",
+  "githubSecret": "e0b92014d39a85dbf3bc64717c78fbb63c738f75"
+}
